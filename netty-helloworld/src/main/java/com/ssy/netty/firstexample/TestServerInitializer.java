@@ -1,4 +1,4 @@
-package com.ssy.netty;
+package com.ssy.netty.firstexample;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
